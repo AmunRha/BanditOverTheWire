@@ -1,6 +1,6 @@
 # BanditOverTheWire
 
-Short Write-Up for Bandit Wargames from <a href = "https://overthewire.org/wargames/bandit/bandit3.html">overthewire.org</a>
+Short Write-Up for Bandit Wargames from <a href = "https://overthewire.org/wargames/bandit/bandit1.html">overthewire.org</a> till Level 15
 
 
 ## bandit0 -> bandit1
